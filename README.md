@@ -19,4 +19,4 @@ em curso Técnico</p>
  (2)**Machine Learning** para organização de tempo de estudos
 
  > [!NOTE]
-> Esses exercícios aqui postados são para aprendizado de pessoas interessadas em tecnologia e Empresas
+> Esses exercícios aqui postados são para aprendizado de pessoas interessadas em tecnologia
