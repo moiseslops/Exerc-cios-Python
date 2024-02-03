@@ -9,7 +9,7 @@ em curso Técnico</p>
 <img align="center" width="590em" src="https://assets.infra.grancursosonline.com.br/projeto/ifrn.jpg">
 ## Como rodar esses arquivos <br>
 
-`Baixe o Pycharm ou Visual Studio` <br>
+`Baixe o Pycharm, Visual Studio ou qualquer IDE` <br>
 `Instale o Interpretador do Python` <br>
 `Clique em Run`
 ## Próximas abordagens que penso em desenvolver
